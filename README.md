@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DINESH SHEELAM</h1>
-<h3 align="center">A passionate DATA ENINEER</h3>
+<h3 align="center">A passionate DATA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dinesh-Sheelam&label=Profile%20views&color=0e75b6&style=flat" alt="Dinesh-Sheelam" /> </p>
 
